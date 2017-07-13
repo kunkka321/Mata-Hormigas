@@ -2,9 +2,6 @@ package edu.pe.ulima;
 
 import edu.pe.ulima.inerface.FireBaseRealTime;
 
-/**
- * Created by CVALENCIA on 13/07/2017.
- */
 
 public class SendResult implements FireBaseRealTime {
 
