@@ -3,9 +3,6 @@ package edu.pe.ulima.sprites;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.utils.Array;
 
-/**
- * Created by CVALENCIA on 12/07/2017.
- */
 
 public class Animation {
 
