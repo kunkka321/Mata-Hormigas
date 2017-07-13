@@ -3,9 +3,6 @@ package edu.pe.ulima;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
-/**
- * Created by CVALENCIA on 13/07/2017.
- */
 
 public class FirebaseDataBase {
 
