@@ -259,6 +259,6 @@ public class PlayState extends State implements Input.TextInputListener {
 
     @Override
     public void canceled() {
-        //mGSM.set(new MenuState(mGSM));
+        mGSM.set(new MenuState(mGSM));
     }
 }
